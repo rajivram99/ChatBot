@@ -228,6 +228,9 @@ Please visit <a href="https://bitsathy.ac.in/phdsupervisors.php" target="_blank"
 BUS
 To know more about Transport Facilities please visit <a href="https://bitsathy.ac.in/bus.php" target="_blank">https://bitsathy.ac.in/bus.php</a>.
 
+BUS
+To know more about Transport Facilities please visit <a href="https://bitsathy.ac.in/bus.php" target="_blank">https://bitsathy.ac.in/bus.php</a>.
+
 BIT BLOG
 Please visit our Blogs here <a href="http://blog.bitsathy.ac.in/" target="_blank">http://blog.bitsathy.ac.in/</a>.
 
